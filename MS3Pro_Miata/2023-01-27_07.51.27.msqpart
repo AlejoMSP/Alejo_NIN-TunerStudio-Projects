@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+<bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &#10;Restore Point: Project close - &#10;" writeDate="Fri Jan 27 08:54:24 EST 2023"/>
+<versionInfo fileFormat="5.0" firmwareInfo="MS3+1.5.1+release+++++20171006+16%3A30BST+%28c%29+JSM%2FKC+********" nPages="20" signature="MS3 Format 0566.05P"/>
+<page>
+<pcVariable digits="0" name="rpmhigh" units="rpm">9000.0</pcVariable>
+<pcVariable digits="0" name="loadhigh">400.0</pcVariable>
+</page>
+<page number="0" size="1024"/>
+<page number="1" size="1024"/>
+<page number="2" size="1024"/>
+<page number="3" size="1024"/>
+<page number="4" size="1024"/>
+<page number="5" size="1024"/>
+<page number="6" size="1024"/>
+<page number="7" size="1024"/>
+<page number="8" size="1024"/>
+<page number="9" size="1024"/>
+<page number="10" size="1024"/>
+<page number="11" size="1024"/>
+<page number="12" size="1024"/>
+<page number="13" size="1024"/>
+<page number="14" size="1024"/>
+<page number="15" size="1024">
+<constant cols="16" digits="1" name="ltt_table1" rows="16" units="%">
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 -0.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 -0.1 -0.2 0.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 -1.7 -1.4 0.0 0.6 0.8 0.7 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 -0.4 0.0 0.6 0.0 0.0 0.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 -0.3 -0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 -0.1 -0.1 0.0 -0.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+      </constant>
+<constant cols="1" digits="0" name="ltt_rpms" rows="16" units="RPM">
+         700.0 
+         800.0 
+         1000.0 
+         1500.0 
+         2000.0 
+         2500.0 
+         3000.0 
+         3500.0 
+         4000.0 
+         4500.0 
+         5000.0 
+         5500.0 
+         6000.0 
+         6500.0 
+         7000.0 
+         7500.0 
+      </constant>
+<constant cols="1" digits="1" name="ltt_loads" rows="16" units="%">
+         15.0 
+         25.0 
+         35.0 
+         40.0 
+         55.0 
+         65.0 
+         75.0 
+         85.0 
+         95.0 
+         100.0 
+         120.0 
+         140.0 
+         160.0 
+         170.0 
+         200.0 
+         235.0 
+      </constant>
+</page>
+<page number="16" size="1024"/>
+<page number="17" size="1024"/>
+<page number="18" size="1024"/>
+<page number="19" size="1024"/>
+<settings Comment="These setting are only used if this msq is opened without a project.">
+<setting name="FAHRENHEIT" value="FAHRENHEIT"/>
+<setting name="PW_4X_OFF" value="PW_4X_OFF"/>
+<setting name="CAN_COMMANDS" value="CAN_COMMANDS"/>
+<setting name="PORT_STATUS_OFF" value="PORT_STATUS_OFF"/>
+<setting name="OUTMSG_EDITING_OFF" value="OUTMSG_EDITING_OFF"/>
+<setting name="INTERNAL_LOG_FIELDS" value="INTERNAL_LOG_FIELDS"/>
+</settings>
+<userComments Comment="These are user comments that can be related to a particular setting or dialog."/>
+</msq>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+<bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="" writeDate="Thu Feb 23 11:14:57 EST 2023"/>
+<versionInfo fileFormat="5.0" firmwareInfo="MS3+1.4.1+release+++++20160421+12%3A21BST+%28c%29+JSM%2FKC+********" nPages="20" signature="MS3 Format 0566.05P"/>
+<page>
+<pcVariable digits="0" name="rpmhigh" units="rpm">9000.0</pcVariable>
+<pcVariable digits="0" name="loadhigh">400.0</pcVariable>
+</page>
+<page number="0" size="1024"/>
+<page number="1" size="1024"/>
+<page number="2" size="1024"/>
+<page number="3" size="1024"/>
+<page number="4" size="1024"/>
+<page number="5" size="1024"/>
+<page number="6" size="1024"/>
+<page number="7" size="1024">
+<constant cols="16" digits="1" name="advanceTable1" rows="16" units="deg">
+         15.0 15.0 20.3 21.9 32.9 33.4 34.7 35.9 37.3 37.6 38.0 38.1 38.8 39.5 40.3 41.0 
+         15.0 15.0 18.7 23.6 30.9 34.8 35.6 36.4 37.3 37.6 38.0 38.1 38.8 39.5 40.3 41.0 
+         15.0 15.0 18.7 23.6 30.9 33.8 34.4 35.0 35.6 35.9 36.3 36.4 37.1 37.9 38.6 39.3 
+         15.0 15.0 22.6 24.8 28.8 31.9 32.5 33.1 33.8 34.2 34.6 34.7 35.4 36.1 36.9 37.6 
+         17.0 17.0 22.8 24.7 28.1 30.3 32.2 32.2 32.2 32.7 33.1 33.2 33.9 34.7 35.4 36.1 
+         18.5 18.7 24.3 26.1 27.6 28.7 29.3 29.2 28.8 29.7 30.6 31.1 31.8 32.5 33.3 34.0 
+         19.6 19.9 24.5 27.8 27.7 27.7 28.2 28.1 27.7 28.8 29.9 30.7 31.4 32.1 32.9 33.6 
+         19.0 19.6 23.9 26.7 26.6 26.5 26.9 26.8 26.8 27.9 29.1 29.8 30.5 31.3 32.0 32.7 
+         19.0 19.1 23.1 26.2 26.6 25.5 26.1 26.0 25.4 26.5 27.6 28.3 29.1 29.8 30.5 31.3 
+         17.2 18.5 21.8 25.4 26.7 27.3 26.9 25.7 24.9 25.3 25.7 26.1 26.8 27.9 28.9 29.6 
+         15.0 17.2 20.8 24.2 26.9 26.8 25.6 24.9 24.1 24.0 24.0 24.1 24.8 24.9 25.9 24.7 
+         13.0 15.2 18.7 22.0 22.8 22.2 21.1 19.8 18.9 18.8 18.8 18.9 19.7 20.2 20.6 21.4 
+         13.0 15.2 17.3 19.3 21.2 21.3 20.4 18.7 16.3 16.3 16.9 17.2 17.2 17.5 17.7 17.7 
+         14.1 15.1 16.4 18.0 19.8 20.3 19.5 17.5 14.9 15.1 15.8 16.2 16.3 16.6 16.7 16.8 
+         15.0 15.0 15.7 16.9 18.6 19.2 18.3 16.1 14.1 14.3 15.0 15.2 15.4 15.6 15.6 15.6 
+         15.0 15.0 15.0 15.6 17.8 18.0 16.8 14.7 13.3 13.6 14.0 13.8 13.9 13.7 13.4 13.4 
+      </constant>
+</page>
+<page number="8" size="1024"/>
+<page number="9" size="1024">
+<constant cols="1" digits="0" name="srpm_table1" rows="16" units="RPM">
+         500.0 
+         800.0 
+         1000.0 
+         1500.0 
+         1800.0 
+         2300.0 
+         2900.0 
+         3400.0 
+         3900.0 
+         4300.0 
+         4800.0 
+         5300.0 
+         5900.0 
+         6500.0 
+         7200.0 
+         8000.0 
+      </constant>
+<constant cols="1" digits="1" name="smap_table1" rows="16" units="kPa">
+         10.0 
+         24.0 
+         35.0 
+         55.0 
+         65.0 
+         75.0 
+         84.0 
+         99.0 
+         110.0 
+         125.0 
+         140.0 
+         160.0 
+         180.0 
+         200.0 
+         220.0 
+         250.0 
+      </constant>
+</page>
+<page number="10" size="1024"/>
+<page number="11" size="1024"/>
+<page number="12" size="1024"/>
+<page number="13" size="1024"/>
+<page number="14" size="1024"/>
+<page number="15" size="1024"/>
+<page number="16" size="1024"/>
+<page number="17" size="1024"/>
+<page number="18" size="1024"/>
+<page number="19" size="1024"/>
+<settings Comment="These setting are only used if this msq is opened without a project.">
+<setting name="FAHRENHEIT" value="FAHRENHEIT"/>
+<setting name="PW_4X_OFF" value="PW_4X_OFF"/>
+<setting name="CAN_COMMANDS" value="CAN_COMMANDS"/>
+<setting name="PORT_STATUS_OFF" value="PORT_STATUS_OFF"/>
+<setting name="OUTMSG_EDITING_OFF" value="OUTMSG_EDITING_OFF"/>
+<setting name="INTERNAL_LOG_FIELDS_OFF" value="INTERNAL_LOG_FIELDS_OFF"/>
+</settings>
+<userComments Comment="These are user comments that can be related to a particular setting or dialog.">
+<userComment name="advanceTable1" value=""/>
+</userComments>
+</msq>
