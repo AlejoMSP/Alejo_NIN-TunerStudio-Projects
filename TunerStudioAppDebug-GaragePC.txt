@@ -1,0 +1,370 @@
+Starting on GARAGEPC
+TunerStudio 3.1.08 started on Sat Oct 21 17:48:41 EDT 2023
+JRE 1.8.0_66, Windows 10 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+10/21/23 5:48:41 PM :Debug: no update:defaultFont
+10/21/23 5:48:41 PM :Info: Initializing File Dialogs.
+10/21/23 5:48:41 PM :Debug: hid: 670.5434
+10/21/23 5:48:43 PM :Info: Loading Language Content.
+10/21/23 5:48:45 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+10/21/23 5:48:45 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+10/21/23 5:48:45 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+10/21/23 5:48:45 PM :Info: Initializing Help.
+10/21/23 5:48:45 PM :Info: Initializing Edition Features.
+10/21/23 5:48:45 PM :Info: Initializing App Events.
+10/21/23 5:48:45 PM :Debug: App Name:TunerStudio, appEdition:MS Lite!
+10/21/23 5:48:45 PM :Debug: Dummy Function Factory Created.
+10/21/23 5:48:45 PM :Info: Initializing User Interface
+10/21/23 5:48:48 PM :Info: Loading Font list.
+10/21/23 5:48:48 PM :Debug: Time to retreive font name list: 20 ms.
+10/21/23 5:48:48 PM :Info: 
+10/21/23 5:48:48 PM :Info: Initializing UI Components.
+10/21/23 5:48:48 PM :Info: Ready
+MSmain: No check, last update check=Sun Oct 15 13:48:35 EDT 2023
+10/21/23 5:48:49 PM :Debug: Running speed test
+10/21/23 5:48:50 PM :Debug: Processor Score:751513
+MSad: No check, last update check=Sun Oct 15 13:48:39 EDT 2023
+Starting on DESKTOP-BO0JBU1
+TunerStudio 3.1.08 started on Tue Oct 24 20:02:43 EDT 2023
+JRE 1.8.0_66, Windows 10 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+10/24/23 8:02:43 PM :Debug: no update:defaultFont
+10/24/23 8:02:43 PM :Info: Initializing File Dialogs.
+10/24/23 8:02:44 PM :Debug: hid: 1430.4753
+10/24/23 8:02:44 PM :Info: Updating ai & t
+10/24/23 8:02:45 PM :Info: Loading Language Content.
+10/24/23 8:02:47 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+10/24/23 8:02:47 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+10/24/23 8:02:47 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+10/24/23 8:02:47 PM :Info: Initializing Plugin Services.
+10/24/23 8:02:47 PM :Info: Loading Plugins.
+10/24/23 8:02:47 PM :Info: Initializing Help.
+10/24/23 8:02:47 PM :Info: Initializing Edition Features.
+10/24/23 8:02:47 PM :Info: Initializing App Events.
+10/24/23 8:02:47 PM :Debug: App Name:TunerStudio, appEdition:MS
+10/24/23 8:02:47 PM :Info: Initializing User Interface
+10/24/23 8:02:48 PM :Info: Opening Last Project....
+10/24/23 8:02:48 PM :Info: Starting Prevent Sleep
+10/24/23 8:02:48 PM :Info: Opening Project ...
+10/24/23 8:02:48 PM :Debug: Opening project: C:\Users\garage\OneDrive\TunerStudio Files\Alejo_NIN-TunerStudio-Projects\1999-Miata
+10/24/23 8:02:48 PM :Debug: EventTrigger Data log Reset. expression: 
+10/24/23 8:02:48 PM :Debug: EventTrigger Stop Data log Reset. expression: 
+10/24/23 8:02:48 PM :Debug: Reading translation file as plain text
+10/24/23 8:02:48 PM :Info: Supported iniSpecVersion=3.71
+10/24/23 8:02:48 PM :Debug: Filtered ConfigurationOptionGroup in 38ms.
+10/24/23 8:02:48 PM :Info: Supported iniSpecVersion=3.71
+10/24/23 8:02:48 PM :Info: Read file canPcVariables.ini: 3.023501ms
+10/24/23 8:02:48 PM :Info: Filtered ini: 0.055601ms
+10/24/23 8:02:48 PM :Info: No iniVersion defined
+10/24/23 8:02:48 PM :Info: Loading Trigger Wheels
+10/24/23 8:02:48 PM :Info: Loaded All known ini sections
+10/24/23 8:02:48 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 14ms.
+10/24/23 8:02:48 PM :Info: Read file mainController.ini: 5.4656ms
+10/24/23 8:02:48 PM :Info: Filtered ini: 4.5304ms
+10/24/23 8:02:48 PM :Info: No iniVersion defined
+10/24/23 8:02:48 PM :Debug: ini signature: speeduino 202305
+10/24/23 8:02:48 PM :Info: Loading Trigger Wheels
+10/24/23 8:02:48 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+10/24/23 8:02:48 PM :Info: Loaded All known ini sections
+10/24/23 8:02:48 PM :Info: Parsed and validated ini "mainController.ini" in : 118ms.
+10/24/23 8:02:48 PM :Info: Supported iniSpecVersion=3.71
+10/24/23 8:02:48 PM :Info: Read file speeduinoSupplement.ecu: 34.8634ms
+10/24/23 8:02:48 PM :Info: Filtered ini: 0.1244ms
+10/24/23 8:02:48 PM :Info: No iniVersion defined
+10/24/23 8:02:48 PM :Info: Loading Trigger Wheels
+10/24/23 8:02:48 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+10/24/23 8:02:48 PM :Info: Validate Expressions disabled.
+10/24/23 8:02:48 PM :Info: Loaded All known ini sections
+10/24/23 8:02:48 PM :Info: Parsed ini "speeduinoSupplement.ecu" in : 39ms.
+10/24/23 8:02:48 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+10/24/23 8:02:48 PM :Info: Time to load primary config: 331.23892ms. used cached config: false
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+10/24/23 8:02:48 PM :Debug: set baud to 115200
+10/24/23 8:02:48 PM :Debug: Adding Configuration: 1999-Miata
+10/24/23 8:02:48 PM :Debug: controllerOnline = 0.0
+10/24/23 8:02:48 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+10/24/23 8:02:48 PM :Debug: Fill Constants: 6
+10/24/23 8:02:48 PM :Info: Tune opened, 3388 bytes updated. File:C:\Users\garage\OneDrive\TunerStudio Files\Alejo_NIN-TunerStudio-Projects\1999-Miata\CurrentTune.msq
+10/24/23 8:02:48 PM :Info: Tune opened, 3388 bytes updated. File:C:\Users\garage\OneDrive\TunerStudio Files\Alejo_NIN-TunerStudio-Projects\1999-Miata\CurrentTune.msq
+10/24/23 8:02:48 PM :Info: dirtyData.size(): 0
+10/24/23 8:02:49 PM :Info: dirtyData.size(): 0
+10/24/23 8:02:49 PM :Debug: Flush lasted: 82ms.
+10/24/23 8:02:49 PM :Info: dirtyData.size(): 0
+10/24/23 8:02:49 PM :Info: dirtyData.size(): 0
+10/24/23 8:02:49 PM :Debug: Flush lasted: 79ms.
+10/24/23 8:02:49 PM :Debug: Skip Burn, last write page: -2
+10/24/23 8:02:49 PM :Info: !!! Loaded config in 709
+10/24/23 8:02:49 PM :Info: !!! Activated Project 887
+10/24/23 8:02:49 PM :Info: Opening Gauge Cluster..
+10/24/23 8:02:49 PM :Info: Time to load uncached dash: 97.868706ms, file: dashboard.dash
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel sensor03
+Not found in current configuration.
+10/24/23 8:02:49 PM :Debug: Deactivated fast paint Main Dashboard
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel egoCorrection1
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel barometer
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel afr1
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel boostpsig
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel cel_status_knock
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel cel_status_sync
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel status7AND128_OC
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel status7AND64_OC
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel status6AND64_OC
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel status6AND16_OC
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel status2AND64_OC
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel status2AND32_OC
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel status1AND4_OC
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel status1AND1_OC
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel ready
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel cel_status_mat
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel idleDC
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel vvt_ang1
+Not found in current configuration.
+10/24/23 8:02:49 PM :Warning: Failed to subscribe DashComp to OutputChannel sensor03
+Not found in current configuration.
+10/24/23 8:02:49 PM :Debug: High Speed Paint: false
+10/24/23 8:02:49 PM :Info: 
+10/24/23 8:02:49 PM :Info: Com Thread created: COMM Thread41847.9735760518
+10/24/23 8:02:49 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+10/24/23 8:02:49 PM :Info: Comm Manager for 1999-Miata Started, thread ID: COMM Thread41847.9735760518
+10/24/23 8:02:49 PM :Info: Loading Font list.
+10/24/23 8:02:49 PM :Debug: Time to retreive font name list: 34 ms.
+10/24/23 8:02:49 PM :Info: 
+10/24/23 8:02:49 PM :Info: Initializing UI Components.
+10/24/23 8:02:49 PM :Info: Ready
+10/24/23 8:02:49 PM :Info: Time to load uncached dash: 107.6768ms, file: Default.dash
+10/24/23 8:02:49 PM :Debug: High Speed Paint: true
+10/24/23 8:02:49 PM :Debug: !!! Opened Dash 1437
+10/24/23 8:02:49 PM :Info: 1999-Miata Ready
+10/24/23 8:02:49 PM :Debug: Tuning View Files loaded in 0.4469ms.
+10/24/23 8:02:50 PM :Info: EventTrigger: 1999-Miata.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+10/24/23 8:02:50 PM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread41847.9735760518
+
+10/24/23 8:02:50 PM :Debug: Purged 4 orphaned bytes:
+10/24/23 8:02:50 PM :Debug: Time:1.722s. 0x3F 0xBA 0x6C 0xAD 
+10/24/23 8:02:50 PM :Debug: Time:1.722s. 
+
+10/24/23 8:02:50 PM :Debug: Time:1.722s.   ?    .    l    .  
+10/24/23 8:02:51 PM :Debug: Running speed test
+10/24/23 8:02:52 PM :Debug: Processor Score:683025
+10/24/23 8:02:53 PM :Info: Local on CAN ID:0, blockingFactor: 121, tableBlockingFactor: 64
+10/24/23 8:02:53 PM :Info: Target device is local, using localBlockingFactors
+10/24/23 8:02:53 PM :Warning: Unsupported Controller Firmware:  ???l?
+10/24/23 8:02:54 PM :Info: Local on CAN ID:0, blockingFactor: 121, tableBlockingFactor: 64
+10/24/23 8:02:54 PM :Info: Target device is local, using localBlockingFactors
+10/24/23 8:02:55 PM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x32 x33 x30 x35       speeduino.202305
+10/24/23 8:02:56 PM :Info: Communicating with sig:speeduino 202305, Speeduino 2023.05
+10/24/23 8:02:56 PM :Debug: Received Instruction: Read All Tune Data, Page: 0
+10/24/23 8:02:56 PM :Debug: controllerOnline = 1.0
+10/24/23 8:02:56 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+10/24/23 8:02:56 PM :Debug: CRC matches for page 1:x71 x99 x71 xF0                                                       q.q.
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:1
+10/24/23 8:02:56 PM :Debug: CRC matches for page 2:x62 x54 xB9 x2E                                                       bT..
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:2
+10/24/23 8:02:56 PM :Debug: CRC matches for page 3:x59 x87 x6B x25                                                       Y.k%
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:3
+10/24/23 8:02:56 PM :Debug: CRC matches for page 4:xD9 xB5 x6F xCB                                                       ..o.
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:4
+10/24/23 8:02:56 PM :Debug: CRC matches for page 5:x90 x58 xD4 x15                                                       .X..
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:5
+10/24/23 8:02:56 PM :Debug: CRC matches for page 6:x54 x3C x01 x8A                                                       T<..
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:6
+10/24/23 8:02:56 PM :Debug: CRC matches for page 7:x85 xEA xDA x4C                                                       ...L
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:7
+10/24/23 8:02:56 PM :Debug: CRC matches for page 8:x3C xF7 x48 x2B                                                       <.H+
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:8
+10/24/23 8:02:56 PM :Info: CRC Mismatch, will need to refresh page from controller 
+10/24/23 8:02:56 PM :Info:    CRC from controller page 9:x58 x01 x87 xAD                                                       X...
+10/24/23 8:02:56 PM :Info:    Local Data CRC for page 9: xE3 xE9 x20 xF2                                                       ....
+10/24/23 8:02:56 PM :Debug: Read page time: 62ms.
+10/24/23 8:02:56 PM :Info: Checksum page 9 data read: x58 x01 x87 xAD                                                       X...
+10/24/23 8:02:56 PM :Debug: CRC matches for page 10:xE7 x26 x2A x90                                                       .&*.
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:10
+10/24/23 8:02:56 PM :Debug: CRC matches for page 11:x74 x8A xF8 xBC                                                       t...
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:11
+10/24/23 8:02:56 PM :Debug: CRC matches for page 12:x87 x26 x89 x7A                                                       .&.z
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:12
+10/24/23 8:02:56 PM :Info: CRC Mismatch, will need to refresh page from controller 
+10/24/23 8:02:56 PM :Info:    CRC from controller page 13:x04 x75 x75 xC2                                                       .uu.
+10/24/23 8:02:56 PM :Info:    Local Data CRC for page 13: x0C x81 x7A x98                                                       ..z.
+10/24/23 8:02:56 PM :Debug: Read page time: 61ms.
+10/24/23 8:02:56 PM :Info: Checksum page 13 data read: x04 x75 x75 xC2                                                       .uu.
+10/24/23 8:02:56 PM :Debug: CRC matches for page 14:xFF xD6 xB2 xE4                                                       ....
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:14
+10/24/23 8:02:56 PM :Debug: CRC matches for page 15:x35 xB4 xCB xE4                                                       5...
+10/24/23 8:02:56 PM :Info: CrC matched skipped controller read on page:15
+10/24/23 8:02:56 PM :Debug: Read All Data
+10/24/23 8:02:56 PM :Debug: isBlank Time: 0 ms.
+10/24/23 8:02:56 PM :Debug: DiffTime: 5 ms.
+10/24/23 8:03:43 PM :Info: Re-establishing connection to: RS232: Port:COM5, Baud:115200
+10/24/23 8:03:43 PM :Debug: can not close Port: jssc.SerialPort@1946df7, message: Port name - COM5; Method name - setEventsMask(); Exception type - Can't set mask.
+10/24/23 8:03:44 PM :Warning: Failed to re-establish connection to: RS232: Port:COM5, Baud:115200
+10/24/23 8:03:44 PM :Info: Connection Check failed, forcing offline.
+10/24/23 8:03:45 PM :Debug: controllerOnline = 0.0
+10/24/23 8:03:45 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+10/24/23 8:03:45 PM :Debug: No Remaining Queue Write instructions
+10/24/23 8:03:45 PM :Debug: Went offline
+10/24/23 8:03:45 PM :Debug: controllerOnline = 0.0
+10/24/23 8:03:45 PM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+10/24/23 8:03:45 PM :Debug: Deactivated fast paint Default
+10/24/23 8:03:45 PM :Debug: No Remaining Queue Write instructions
+10/24/23 8:03:45 PM :Info: Went offline 2
+10/24/23 8:03:45 PM :Debug: Port not valid: Unable to open port: COM5
+Please check your Communications Settings. 
+10/28/23 10:46:14 AM :Info: Time to save msq: 94.111694
+10/28/23 10:46:14 AM :Info: closeApp Called
+10/28/23 10:46:14 AM :Debug: TuneLog Editor set text
+10/28/23 10:46:14 AM :Debug: Fill Constants: 3
+10/28/23 10:46:14 AM :Info: Skip Restore Point for '1999-Miata' because nothing changed since: 1999-Miata_2023-10-21_15.54.21.msq
+10/28/23 10:46:14 AM :Info: Time to save msq: 11.6737
+10/28/23 10:46:14 AM :Debug: goOffline Starting, Time:0
+10/28/23 10:46:14 AM :Info: Deactivated Turbo Baud, goOffline
+10/28/23 10:46:14 AM :Debug: goOffline about to stopProcessing, Time:0
+10/28/23 10:46:14 AM :Debug: goOffline closed port, Time:0
+10/28/23 10:46:15 AM :Info: 1999-Miata ComThread stopped COMM Thread41847.9735760518
+10/28/23 10:46:15 AM :Debug: goOffline comm thread stopped, Time:292
+10/28/23 10:46:15 AM :Debug: No Remaining Queue Write instructions
+10/28/23 10:46:15 AM :Debug: removing Configuration: 1999-Miata
+10/28/23 10:46:15 AM :Debug: ############################################# Save Project Backup ##########################################
+10/28/23 10:46:15 AM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on GARAGEPC
+TunerStudio 3.1.08 started on Sat Oct 28 13:01:13 EDT 2023
+JRE 1.8.0_66, Windows 10 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+10/28/23 1:01:13 PM :Debug: no update:defaultFont
+10/28/23 1:01:14 PM :Info: Initializing File Dialogs.
+10/28/23 1:01:14 PM :Debug: hid: 865.4587
+10/28/23 1:01:15 PM :Info: Loading Language Content.
+10/28/23 1:01:17 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+10/28/23 1:01:17 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+10/28/23 1:01:17 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+10/28/23 1:01:17 PM :Info: Initializing Help.
+10/28/23 1:01:17 PM :Info: Initializing Edition Features.
+10/28/23 1:01:17 PM :Info: Initializing App Events.
+10/28/23 1:01:17 PM :Debug: App Name:TunerStudio, appEdition:MS Lite!
+10/28/23 1:01:17 PM :Debug: Dummy Function Factory Created.
+10/28/23 1:01:17 PM :Info: Initializing User Interface
+10/28/23 1:01:18 PM :Info: Checking for updates
+10/28/23 1:01:19 PM :Info: Loading Font list.
+10/28/23 1:01:19 PM :Debug: Time to retreive font name list: 46 ms.
+10/28/23 1:01:19 PM :Info: 
+10/28/23 1:01:19 PM :Info: Initializing UI Components.
+10/28/23 1:01:19 PM :Info: Ready
+Saved user properties successfully
+Saved user properties successfully
+10/28/23 1:01:22 PM :Info: Update Check Completed
+Saved user properties successfully
+Saved user properties successfully
+10/28/23 1:01:26 PM :Debug: Directory Changed:
+	Old:C:\Users\alejo\OneDrive\Documents
+	New:C:\Users\alejo\OneDrive\TunerStudio Files\Alejo_NIN-TunerStudio-Projects
+10/28/23 1:01:28 PM :Debug: File Changed:
+	Old:null
+	New:C:\Users\alejo\OneDrive\TunerStudio Files\Alejo_NIN-TunerStudio-Projects\1999-Miata
+10/28/23 1:01:28 PM :Info: Opening Project ...
+10/28/23 1:01:28 PM :Debug: Opening project: C:\Users\alejo\OneDrive\TunerStudio Files\Alejo_NIN-TunerStudio-Projects\1999-Miata
+10/28/23 1:01:29 PM :Debug: Reading translation file as plain text
+10/28/23 1:01:29 PM :Info: Supported iniSpecVersion=3.71
+10/28/23 1:01:29 PM :Debug: Filtered ConfigurationOptionGroup in 8ms.
+10/28/23 1:01:29 PM :Info: Supported iniSpecVersion=3.71
+10/28/23 1:01:29 PM :Info: Read file canPcVariables.ini: 2.2803ms
+10/28/23 1:01:29 PM :Info: Filtered ini: 0.0324ms
+10/28/23 1:01:29 PM :Info: No iniVersion defined
+10/28/23 1:01:29 PM :Info: Loading Trigger Wheels
+10/28/23 1:01:29 PM :Info: Loaded All known ini sections
+10/28/23 1:01:29 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 16ms.
+10/28/23 1:01:29 PM :Info: Read file mainController.ini: 4.0831ms
+10/28/23 1:01:29 PM :Info: Filtered ini: 2.9487ms
+10/28/23 1:01:29 PM :Info: No iniVersion defined
+10/28/23 1:01:29 PM :Debug: ini signature: speeduino 202305
+10/28/23 1:01:29 PM :Info: Loading Trigger Wheels
+10/28/23 1:01:29 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+10/28/23 1:01:29 PM :Info: Loaded All known ini sections
+10/28/23 1:01:29 PM :Info: Parsed and validated ini "mainController.ini" in : 94ms.
+10/28/23 1:01:29 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+10/28/23 1:01:29 PM :Info: Time to load primary config: 502.6826ms. used cached config: false
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+10/28/23 1:01:29 PM :Debug: set baud to 115200
+10/28/23 1:01:29 PM :Debug: Adding Configuration: 1999-Miata
+10/28/23 1:01:29 PM :Debug: controllerOnline = 0.0
+10/28/23 1:01:29 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+10/28/23 1:01:29 PM :Debug: Fill Constants: 0
+10/28/23 1:01:30 PM :Info: Tune opened, 3388 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudio Files\Alejo_NIN-TunerStudio-Projects\1999-Miata\CurrentTune.msq
+10/28/23 1:01:30 PM :Info: Tune opened, 3388 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudio Files\Alejo_NIN-TunerStudio-Projects\1999-Miata\CurrentTune.msq
+10/28/23 1:01:30 PM :Info: dirtyData.size(): 0
+10/28/23 1:01:30 PM :Info: dirtyData.size(): 0
+10/28/23 1:01:30 PM :Debug: Flush lasted: 79ms.
+10/28/23 1:01:30 PM :Info: dirtyData.size(): 0
+10/28/23 1:01:30 PM :Info: dirtyData.size(): 0
+10/28/23 1:01:30 PM :Debug: Flush lasted: 78ms.
+10/28/23 1:01:30 PM :Debug: Skip Burn, last write page: -2
+10/28/23 1:01:30 PM :Info: !!! Loaded config in 1328
+10/28/23 1:01:30 PM :Info: !!! Activated Project 1468
+10/28/23 1:01:30 PM :Info: Opening Gauge Cluster..
+10/28/23 1:01:30 PM :Debug: High Speed Paint: true
+10/28/23 1:01:30 PM :Info: 
+10/28/23 1:01:30 PM :Info: Com Thread created: COMM Thread37956.3232660291
+10/28/23 1:01:30 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+10/28/23 1:01:30 PM :Debug: !!! Opened Dash 1625
+10/28/23 1:01:30 PM :Info: Comm Manager for 1999-Miata Started, thread ID: COMM Thread37956.3232660291
+10/28/23 1:01:30 PM :Info: 1999-Miata Ready
+10/28/23 1:01:30 PM :Debug: Port not valid: Unable to open port: COM15
+Please check your Communications Settings. 
+10/28/23 1:01:30 PM :Debug: Tuning View Files loaded in 0.4088ms.
+10/28/23 1:01:31 PM :Info: No Persistor set, not activating persisted triggers.
+10/28/23 1:01:43 PM :Debug: High Speed Paint: true
+10/28/23 1:01:46 PM :Info: Time to load non-cached dashboard: 74.0256 ms. file:afrTable1Map.dash
+10/28/23 1:01:46 PM :Debug: Time to save dashboard: 74.72031ms. file: C:\Users\alejo\OneDrive\TunerStudio Files\Alejo_NIN-TunerStudio-Projects\1999-Miata\\dashboard\afrTable1Map.dash
+10/28/23 1:01:46 PM :Debug: Closing Dashboard afrTable1Map_Cluster
+10/28/23 1:01:47 PM :Info: dirtyData.size(): 0
+10/28/23 1:01:47 PM :Info: dirtyData.size(): 0
+10/28/23 1:01:47 PM :Debug: Flush lasted: 78ms.
+10/28/23 1:01:47 PM :Debug: Skip Burn, last write page: -2

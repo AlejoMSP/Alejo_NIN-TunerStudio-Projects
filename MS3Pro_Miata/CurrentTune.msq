@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &#10;Restore Point: Project close - &#10;" writeDate="Tue Mar 07 19:45:04 EST 2023"/>
+<bibliography author="TunerStudio MS 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &#10;Restore Point: Project close - &#10;" writeDate="Tue Oct 24 19:38:59 EDT 2023"/>
 <versionInfo fileFormat="5.0" firmwareInfo="MS3+1.5.1+release+++++20171006+16%3A30BST+%28c%29+JSM%2FKC+********" nPages="20" signature="MS3 Format 0566.05P"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
@@ -740,7 +740,7 @@
 <constant digits="0" name="vssdot_int" units="ms">200.0</constant>
 <constant name="ac_idleup_io_in">"Digital Switched In 3"</constant>
 <constant name="ac_idleup_settings_inv">"Normal"</constant>
-<constant name="ac_idleup_settings">"Off"</constant>
+<constant name="ac_idleup_settings">"On"</constant>
 <constant name="ac_idleup_io_out">"Off"</constant>
 <constant digits="0" name="ac_idleup_delay" units="ms">100.0</constant>
 <constant digits="1" name="ac_idleup_adder_duty" units="%">3.136</constant>
